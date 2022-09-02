@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .) Use the long format
+Write a script that changes the working directory to the previous one.

@@ -1,1 +1,1 @@
-script that changes the working directory to the user’s home directory
+Delete the directory my_first_directory that is in the /tmp directory.
